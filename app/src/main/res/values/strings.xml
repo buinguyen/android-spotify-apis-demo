@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SpotifyDemo</string>
+
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="play">Play favorite</string>
+    <string name="get_playlists">Get my playlists</string>
+    <string name="get_tracks">Get my tracks</string>
+</resources>
